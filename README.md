@@ -72,7 +72,7 @@
   <h2 align="left">
     Built With
   </h2>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <div style="display: flex; flex-wrap: inline; gap: 10px; align-items: center;">
     <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
       <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="Next.js" width="64">
       <p style="text-align: center; font-size: 12px;">Next.js</p>
@@ -148,8 +148,7 @@
     Start the Development Server:
       <pre><code class="lang-bash">npm <span class="hljs-keyword">run</span><span class="bash"> dev</span>
 </code></pre>
-This starts the Next.js development server at <code>
-http://localhost:3000.</code>
+This starts the Next.js development server at http://localhost:3000
     </li>
     <li>
     Build for Production:
@@ -161,8 +160,7 @@ http://localhost:3000.</code>
 Run the Production Server: After building, start the server:
      <pre><code class="lang-bash">npm <span class="hljs-keyword">run</span><span class="bash"> start</span>
 </code></pre>
-This starts the Next.js app at <code>
-http://localhost:3000.</code>
+This starts the Next.js app at http://localhost:3000
     </li>
     <li>
     Lint the Code: To lint and auto-correct:
