@@ -66,31 +66,87 @@
     </a>
     </li>
   </ul>
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </div>
 
 <div align="left" id="built-with">
   <h2 align="left">
     Built With
   </h2>
-  <div style="display: flex; flex-wrap: inline; gap: 10px; align-items: center;">
-    <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
-      <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="Next.js" width="64">
-      <p style="text-align: center; font-size: 12px;">Next.js</p>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
-      <img src="https://authjs.dev/img/etc/logo-sm.webp" alt="Auth.js" width="64">
-      <p style="text-align: center; font-size: 12px;">Auth.js</p>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
-      <img src="https://www.gstatic.com/devrel-devsite/prod/v6f23042ee535b54d461e0cc5c1cc12493e4d0aea4f2d54a7a63063da7859ead0/firebase/images/touchicon-180.png" alt="Firebase" width="64">
-      <p style="text-align: center; font-size: 12px;">Firebase</p>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; width: 100px;">
-      <img src="https://rebackk.xyz/_next/image?url=%2Fimages%2FdarkBG.png&w=64&q=75" alt="Rebackk" width="64">
-      <p style="text-align: center; font-size: 12px;">Rebackk</p>
-    </div>
-
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://nextjs.org/" style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+            <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="Next.js" width="64">
+            <p style="text-align: center; font-size: 12px;">
+              Next.js
+            </p>
+          </a>
+        </td>
+        <td>
+          <a href="https://authjs.dev/" style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+            <img src="https://authjs.dev/img/etc/logo-sm.webp" alt="Auth.js" width="64">
+            <p style="text-align: center; font-size: 12px;">
+              Auth.js
+            </p>
+          </a>
+        </td>
+        <td>
+          <a href="https://firebase.google.com/" style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+            <img src="https://www.gstatic.com/devrel-devsite/prod/v6f23042ee535b54d461e0cc5c1cc12493e4d0aea4f2d54a7a63063da7859ead0/firebase/images/touchicon-180.png" alt="Firebase" width="64">
+            <p style="text-align: center; font-size: 12px;">
+              Firebase
+            </p>
+          </a>
+        </td>
+        <td>
+          <a href="https://rebackk.xyz" style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+            <img src="https://rebackk.xyz/_next/image?url=%2Fimages%2FdarkBG.png&w=64&q=75" alt="Rebackk" width="64">
+            <p style="text-align: center; font-size: 12px;">
+              Rebackk
+            </p>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/0xsarwagya/arunya" style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+            <img src="https://raw.githubusercontent.com/0xsarwagya/arunya/main/.github/assets/logo.png" alt="Arunya" width="64">
+            <p style="text-align: center; font-size: 12px;">
+              Arunya
+            </p>
+          </a>
+        </td>
+        <td>
+          <a href="https://github.com/shadcn-ui" style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+            <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ShadcnUI" width="64">
+            <p style="text-align: center; font-size: 12px;">
+              ShadcnUI
+            </p>
+          </a>
+        </td>
+        <td>
+          <a href="https://webrtc.org/" style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+            <img src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" alt="WebRTC" width="64">
+            <p style="text-align: center; font-size: 12px;">
+              WebRTC
+            </p>
+          </a>
+        </td>
+        <td>
+          <a href="https://vercel.com/" style="display: flex; flex-direction: column; align-items: center; width: 100px;">
+            <svg aria-label="Vercel logomark" width="64" role="img" viewBox="0 0 74 64" style="width: auto; overflow: visible;"><path d="M37.5896 0.25L74.5396 64.25H0.639648L37.5896 0.25Z" fill="white"></path></svg>
+            <br />
+              Vercel
+            </p>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
   </div>
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </div>
 
 <div align="left" id="getting-started">
@@ -172,7 +228,8 @@ To check for linting errors without auto-correction:
     </li>
   </ol>
   </p>
-</div> 
+</div>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
 <div align="left" id="roadmap">
   <h2 align="left">
@@ -181,6 +238,7 @@ To check for linting errors without auto-correction:
   <h3>
   Coming Soon
   </h3>
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </div>
 
 <div align="left" id="contributing">
@@ -196,6 +254,8 @@ To check for linting errors without auto-correction:
   </h2>
   This Project is Licensed under Apache-2.0 License.
   Check <a href="https://github.com/0xsarwagya/vibestart/blob/main/LICENSE">LICENSE</a> for full License
+
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </div>
 
 <div align="left" id="contact">
@@ -209,6 +269,7 @@ To check for linting errors without auto-correction:
   <a href="https://x.com/0xsarwagya">
   https://x.com/0xsarwagya
   </a>
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </div>
 
 <div align="left" id="acknowledgments">
@@ -216,6 +277,34 @@ To check for linting errors without auto-correction:
     Acknowledgments
   </h2>
   <h3>
-  Updating Soon
+    We would like to express our gratitude to the following technologies and contributors:
   </h3>
+  <ul>
+    <li>
+      <a href="https://nextjs.org/">Next.js</a> - A powerful React framework used for server-side rendering and static site generation.
+    </li>
+    <li>
+      <a href="https://authjs.dev/">Auth.js</a> - Authentication library that integrates seamlessly with server-side frameworks.
+    </li>
+    <li>
+      <a href="https://firebase.google.com/">Firebase</a> - For real-time database and authentication services.
+    </li>
+    <li>
+      <a href="https://rebackk.xyz">Rebackk</a> - Special thanks to Rebackk for inspiration and tools.
+    </li>
+    <li>
+      <a href="https://github.com/0xsarwagya/arunya">Arunya</a> - Special thanks for providing critical foundational work.
+    </li>
+    <li>
+      <a href="https://github.com/shadcn-ui">ShadcnUI</a> - Component design inspiration and tools were borrowed from their amazing work.
+    </li>
+    <li>
+      <a href="https://webrtc.org/">WebRTC</a> - For real-time peer-to-peer communication.
+    </li>
+    <li>
+      <a href="https://vercel.com/">Vercel</a> - The platform hosting this project.
+    </li>
+  </ul>
+  <h3>Updating Soon...</h3>
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </div>
