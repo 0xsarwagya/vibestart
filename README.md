@@ -136,7 +136,7 @@
         </td>
         <td>
           <a href="https://vercel.com/" style="display: flex; flex-direction: column; align-items: center; width: 100px;">
-            <svg aria-label="Vercel logomark" width="64" role="img" viewBox="0 0 74 64" style="width: auto; overflow: visible;"><path d="M37.5896 0.25L74.5396 64.25H0.639648L37.5896 0.25Z" fill="white"></path></svg>
+            <img src="https://cdn.sanity.io/images/34ent8ly/production/223a29eb0698fb7fbc6d158a6f7e698d155e025f-824x824.png?w=64&h=75&fit=min&auto=format" alt="WebRTC" width="64">
             <br />
               Vercel
             </p>
