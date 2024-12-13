@@ -1,44 +1,6 @@
-// import React from "react";
-
-// const Feature = () => {
-//   return (
-//     <div className="py-16 px-8 bg-gray-100">
-//       <h2 className="text-3xl font-bold text-center mb-8">
-//         Explore What We Offer
-//       </h2>
-//       <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-//         {/* Feature 1 */}
-//         <div className="p-6 bg-white rounded-lg shadow-md text-center">
-//           <h3 className="text-xl font-semibold mb-4">Join Online E-Cyphers</h3>
-//           <p className="text-gray-600">
-//             Engage with real-time group freestyles and show off your skills.
-//           </p>
-//         </div>
-
-//         {/* Feature 2 */}
-//         <div className="p-6 bg-white rounded-lg shadow-md text-center">
-//           <h3 className="text-xl font-semibold mb-4">Share Your Work</h3>
-//           <p className="text-gray-600">
-//             Upload and showcase your tracks or videos to the community.
-//           </p>
-//         </div>
-
-//         {/* Feature 3 */}
-//         <div className="p-6 bg-white rounded-lg shadow-md text-center">
-//           <h3 className="text-xl font-semibold mb-4">Connect with Artists</h3>
-//           <p className="text-gray-600">
-//             Build your network and collaborate with hip-hop artists.
-//           </p>
-//         </div>
-//       </div>
-//     </div>
-//   );
-// };
-
 import { features } from "node:process";
 import { Button } from "@/components/ui/button";
 import Image from "next/image";
-// export default Feature;
 import React from "react";
 
 const Feature = () => {

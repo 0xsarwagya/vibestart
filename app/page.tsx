@@ -9,7 +9,7 @@ export default function Home() {
 			<Header />
 			<Hero />
 			<Feature />
-			<Testimonial />
+			{/* <Testimonial /> */}
 			<Footer />
 		</div>
 	);

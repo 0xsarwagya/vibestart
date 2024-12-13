@@ -1,11 +1,8 @@
-"use client";
 import { Icons } from "@/components/icons"; // Assume you have a central icons file
 import { Button } from "@/components/ui/button";
-import React, { useState } from "react";
+import React from "react";
 
 const Header = () => {
-	const [searchQuery, setSearchQuery] = useState("");
-
 	return (
 		<header className="bg-gray-900 text-white py-4">
 			<div className="max-w-6xl mx-auto flex justify-between items-center px-6">
